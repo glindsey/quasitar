@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/quasitar-2-dog.obj-6f4fda29f4e4a652234e7f5c3e0b6f09.mesh"
+
+[deps]
+
+files=[ "res://.import/quasitar-2-dog.obj-6f4fda29f4e4a652234e7f5c3e0b6f09.mesh" ]
+
+source_file="res://resources/meshes/quasitar-2-dog.obj"
+dest_files=[ "res://.import/quasitar-2-dog.obj-6f4fda29f4e4a652234e7f5c3e0b6f09.mesh", "res://.import/quasitar-2-dog.obj-6f4fda29f4e4a652234e7f5c3e0b6f09.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286
